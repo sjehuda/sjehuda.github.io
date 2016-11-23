@@ -1,0 +1,6 @@
+{
+  "name": "Syndication for Humans",
+  "tagline": "",
+  "body": "### Syndication for Humans (syndication4humans)\r\nThis project offers a standard and portable way for applications that support XSL transformation to render XML-based documents of types Atom, RDF and RSS.\r\n\r\n### Mission\r\nThe purpose of this project is integrating a rendering syndication feed mechanism to any web browser.\r\n\r\n### Supportted Syndications\r\nAtom 1.0<br>\r\nRSS 2.0\r\n\r\n### Supportted Modules\r\nContent<br>\r\nGeoRSS (Geographical RSS)<br>\r\niTunes (Podcast)<br>\r\nMRSS (Media RSS)\r\n\r\n### Authors and Contributors\r\nSchimon Jehuda (@sjehuda), project founder.\r\n\r\n### Support\r\nIf you find an unsupported syndication feed or have a suggestion for improvements, please file a ticket at our [issue tracker](https://github.com/sjehuda/syndication4humans/issues).",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
